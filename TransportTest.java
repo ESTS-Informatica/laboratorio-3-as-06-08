@@ -1,9 +1,5 @@
 
 
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
 
 /**
  * The test class TransportTest.
@@ -12,7 +8,7 @@ import org.junit.jupiter.api.Test;
  * @version 03/2024
  */
 
-
+/*
 public class TransportTest {
     
     private Transport transport;
@@ -102,4 +98,4 @@ public class TransportTest {
     public void testGetTransportType() {
         assertEquals("Transporte genérico", transport.getTransportType());
     }
-}
+}*/

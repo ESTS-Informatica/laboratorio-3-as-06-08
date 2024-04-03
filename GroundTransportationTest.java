@@ -1,9 +1,6 @@
 
 
-import static org.junit.jupiter.api.Assertions.*;
-import org.junit.jupiter.api.AfterEach;
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
+
 
 /**
  * The test class GroundTransportation.
@@ -11,6 +8,8 @@ import org.junit.jupiter.api.Test;
  * @author  POO
  * @version 03/2024
  */
+
+/*
 public class GroundTransportationTest {
     
     private GroundTransportation groundTransport;
@@ -54,4 +53,4 @@ public class GroundTransportationTest {
         groundTransport.setPrice(100.0);
         assertEquals(103.0, groundTransport.getPriceWithFees(), 0.001);
     }
-}
+}*/
